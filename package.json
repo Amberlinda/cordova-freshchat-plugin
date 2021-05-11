@@ -1,0 +1,27 @@
+{
+  "name": "info.cordova.plugin.freshworks.freshchat",
+  "version": "1.0.0",
+  "description": "This plugin is for freshchat feature.",
+  "cordova": {
+    "id": "info.cordova.plugin.freshworks.freshchat",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amberlinda/cordova-freshchat-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Amber linda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amberlinda/cordova-freshchat-plugin/issues"
+  },
+  "homepage": "https://github.com/Amberlinda/cordova-freshchat-plugin#readme"
+}
