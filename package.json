@@ -1,9 +1,9 @@
 {
-  "name": "info.cordova.plugin.freshworks.freshchat",
+  "name": "cordova-plugin-freshworks-freshchat",
   "version": "1.0.0",
-  "description": "This plugin is for freshchat feature.",
+  "description": "This plugin is for freshchat feature",
   "cordova": {
-    "id": "info.cordova.plugin.freshworks.freshchat",
+    "id": "cordova-plugin-freshworks-freshchat",
     "platforms": [
       "android",
       "ios"
